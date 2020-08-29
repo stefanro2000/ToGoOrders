@@ -1,0 +1,11 @@
+C:\Users\Ali_Baba\Documents\Visual Studio 2010\Projects\ToGoOrders\ToGoOrders\bin\Debug\ToGoOrders.exe
+C:\Users\Ali_Baba\Documents\Visual Studio 2010\Projects\ToGoOrders\ToGoOrders\bin\Debug\ToGoOrders.pdb
+C:\Users\Ali_Baba\Documents\Visual Studio 2010\Projects\ToGoOrders\ToGoOrders\obj\x86\Debug\ToGoOrders.Form1.resources
+C:\Users\Ali_Baba\Documents\Visual Studio 2010\Projects\ToGoOrders\ToGoOrders\obj\x86\Debug\ToGoOrders.Properties.Resources.resources
+C:\Users\Ali_Baba\Documents\Visual Studio 2010\Projects\ToGoOrders\ToGoOrders\obj\x86\Debug\ToGoOrders.csproj.GenerateResource.Cache
+C:\Users\Ali_Baba\Documents\Visual Studio 2010\Projects\ToGoOrders\ToGoOrders\obj\x86\Debug\ToGoOrders.exe
+C:\Users\Ali_Baba\Documents\Visual Studio 2010\Projects\ToGoOrders\ToGoOrders\obj\x86\Debug\ToGoOrders.pdb
+C:\Users\Ali_Baba\Documents\Visual Studio 2010\Projects\ToGoOrders\ToGoOrders\bin\Debug\Customers.sdf
+C:\Users\Ali_Baba\Documents\Visual Studio 2010\Projects\ToGoOrders\ToGoOrders\bin\Debug\ToGoOrders.exe.config
+C:\Users\Ali_Baba\Documents\Visual Studio 2010\Projects\ToGoOrders\ToGoOrders\obj\x86\Debug\ToGoOrders.csprojResolveAssemblyReference.cache
+C:\Users\Ali_Baba\Documents\Visual Studio 2010\Projects\ToGoOrders\ToGoOrders\obj\x86\Debug\ToGoOrders.CreditCardForm.resources
